@@ -7,6 +7,7 @@ public class RestartSButton : MonoBehaviour
 {
     public void Restart()
     {
+        // aaaaaa
         SceneManager.LoadScene("SampleScene");
     }
 }
